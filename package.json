@@ -1,0 +1,28 @@
+{
+  "name": "gitadot",
+  "version": "1.0.0",
+  "description": "Wrapper of `git add .`",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "gitadot": "./bin.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rms1000watt/gitadot.git"
+  },
+  "keywords": [
+    "git",
+    "git add",
+    "utility",
+    "convenience"
+  ],
+  "author": "Ryan Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rms1000watt/gitadot/issues"
+  },
+  "homepage": "https://github.com/rms1000watt/gitadot#readme"
+}
